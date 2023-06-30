@@ -1,0 +1,50 @@
+body {
+    width: 600px;
+}
+
+#titlePic {
+    text-align: center;
+}
+
+.mass {
+    width: 120px;
+    height: 120px;
+    background-color: lightgrey;
+    border: 5px solid grey;
+    /* margin: 100px auto; */
+}
+
+.flex {
+    display: flex;
+    border: 1px;
+    font-size: 100px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#num1 {
+    width: 120px;
+    height: 120px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.sign {
+    margin: 0 auto;
+}
+
+#btn1 {
+    width: 150px;
+    height: 50px;
+    font-size: 40px;
+    margin: 0 auto;
+    /* border: 5px blue; */
+    /* background-color: lightskyblue; */
+}
+
+
+#lightOrange {
+    width: 300px;
+    background-color: lightpink;
+    margin: 0 auto;
+}
